@@ -9,7 +9,7 @@ public-header:
 -->
 # Kebab and strategy by day, kebab-case by night.
 
-I make my living in FMCG market strategy. The repositories here are what happens when I spend my spare time exploring how far agentic engineering can go – without writing code myself.
+**I make my living in FMCG market strategy. The repositories here are what happens when I spend my spare time exploring how far agentic engineering can go – without writing code myself.**
 
 It started with a question from my wife, looking at my running gear, watches and data: "What are you actually going to do with all that?"
 
